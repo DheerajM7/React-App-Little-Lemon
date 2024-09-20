@@ -9,8 +9,6 @@
 
 Capstone project, which contains a detailed and responsive website with table-booking functionality built using React.
 
-course link - [Meta front end development professional certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer)
-
 ## Screenshot
 
 ### Home Page
